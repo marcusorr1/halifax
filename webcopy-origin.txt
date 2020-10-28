@@ -1,0 +1,176 @@
+Uri: https://www.halifax-protectdetails.com/Login.php
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\Login.php.html
+Content Type: text/html
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-icons_469bdd_256x240.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-icons_469bdd_256x240.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_inset-hard_100_fcfdfd_1x100.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-bg_glass_85_dfeffc_1x400.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_glass_85_dfeffc_1x400.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-bg_glass_75_d0e5f5_1x400.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_glass_75_d0e5f5_1x400.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-bg_inset-hard_100_f5f8f9_1x100.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_inset-hard_100_f5f8f9_1x100.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-bg_flat_55_fbec88_40x100.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_flat_55_fbec88_40x100.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-icons_d8e7f3_256x240.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-icons_d8e7f3_256x240.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-icons_6da8d5_256x240.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-icons_6da8d5_256x240.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-icons_217bc0_256x240.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-icons_217bc0_256x240.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-icons_f9bd01_256x240.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-icons_f9bd01_256x240.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-icons_2e83ff_256x240.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-icons_green.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-icons_green.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://tags.tiqcdn.com/utui/css/images/ui-anim_basic_16x16.gif
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-anim_basic_16x16.gif
+Content Type: image/gif
+
+Uri: http://tags.tiqcdn.com/utui/css/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\utui\css\images\ui-bg_gloss-wave_55_5c9ccc_500x100-1.png
+Content Type: image/png
+
+Uri: https://www.halifax-protectdetails.com/files/img/Halifax 57x57 app-touch-icon-1432115287.JPG
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\Halifax 57x57 app-touch-icon-1432115287.JPG
+Content Type: image/jpeg
+
+Uri: https://www.halifax-protectdetails.com/files/img/Halifax 114x114 app-touch-icon-1472024731.JPG
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\Halifax 114x114 app-touch-icon-1472024731.JPG
+Content Type: image/jpeg
+
+Uri: https://www.halifax-protectdetails.com/files/img/favicon.ico
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.halifax-protectdetails.com/files/css/base-auto-min200526.css
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\css\base-auto-min200526.css
+Content Type: text/css
+
+Uri: https://www.halifax-online.co.uk/personal/a/mobile/mobile_help/login/COOKIE_POLICY
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\a\mobile\mobile_help\login\COOKIE_POLICY.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/personal/a/mobile/mobile_help/login/REMEMBER_ME
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\a\mobile\mobile_help\login\REMEMBER_ME.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/ib-access/cwa/forgotten-details/index.html
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\ib-access\cwa\forgotten-details\index.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/personal/a/useradmin/mobile/registration/selectaccounttyperegistration.jsp?mobile=true
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\a\useradmin\mobile\registration\selectaccounttyperegistration.jsp.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/personal/logon/login.jsp?mobile=false
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\logon\login.jsp.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/personal/a/mobile/mobile_help/login/HELP
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\a\mobile\mobile_help\login\HELP.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/personal/a/mobile/mobile_help/login/SECURITY
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\a\mobile\mobile_help\login\SECURITY.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/personal/a/mobile/mobile_help/login/CONTACT_US
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\a\mobile\mobile_help\login\CONTACT_US.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/personal/a/mobile/mobile_help/login/MOBILE_BANKING
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\a\mobile\mobile_help\login\MOBILE_BANKING.html
+Content Type: text/html
+
+Uri: https://www.halifax-online.co.uk/personal/a/mobile/mobile_help/login/LEGAL
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\personal\a\mobile\mobile_help\login\LEGAL.html
+Content Type: text/html
+
+Uri: https://www.halifax-protectdetails.com/files/js/jquery.js
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.halifax-protectdetails.com/files/img/Halifax-logo-1432115232.gif
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\Halifax-logo-1432115232.gif
+Content Type: image/gif
+
+Uri: https://www.halifax-protectdetails.com/files/img/padlock-secure-NGB-1432115235.gif
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\padlock-secure-NGB-1432115235.gif
+Content Type: image/gif
+
+Uri: https://www.halifax-protectdetails.com/files/img/savings_newstyle-1593009617.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\savings_newstyle-1593009617.png
+Content Type: image/png
+
+Uri: https://www.halifax-protectdetails.com/files/img/fscs-ngb-logon-banner-V2-1459783745.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\fscs-ngb-logon-banner-V2-1459783745.png
+Content Type: image/png
+
+Uri: https://www.halifax-protectdetails.com/files/img/error_bg.gif
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\error_bg.gif
+Content Type: image/gif
+
+Uri: https://www.halifax-protectdetails.com/files/img/chevron_right_white.png
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\chevron_right_white.png
+Content Type: image/png
+
+Uri: https://www.halifax-protectdetails.com/files/img/lock_spinner.gif
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\files\img\lock_spinner.gif
+Content Type: image/gif
+
+Uri: https://www.halifax.co.uk/savings.html?WT.ac=lon/public/navigation/ban/r2pr/savs/s/rt/HxSavRbdBn
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\savings.html
+Content Type: text/html
+
+Uri: https://www.halifax.co.uk/loans.html?WT.ac=lon/public/navigation/ban/r2pr/loan/s/rl/Hxloancalc
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\loans.html
+Content Type: text/html
+
+Uri: https://www.halifax.co.uk/fscs.html
+File Name: C:\Downloaded Web Sites\www.halifax-protectdetails.com\fscs.html
+Content Type: text/html
+
